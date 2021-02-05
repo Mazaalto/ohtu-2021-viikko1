@@ -1,0 +1,8 @@
+# juurihakemistossa olevat tiedostot, joiden pääte on tmp ja hakemistot joiden nimi on build ja .gradle ignoroidaan 
+*tmp
+# hakemistot joiden nimi on build ja .gradle ignoroidaan  
+build/
+.gradle/
+
+#varmistetaan että tehtävän 7 onnistuu
+!build.gradle
