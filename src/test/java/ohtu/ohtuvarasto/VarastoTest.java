@@ -16,8 +16,9 @@ public class VarastoTest {
     double vertailuTarkkuus = 0.0001;
 
     @Before
+    //muutettu varaston saldo 10 --> 100 github teht. 10
     public void setUp() {
-        varasto = new Varasto(10);
+        varasto = new Varasto(100);
     }
 
     @Test
