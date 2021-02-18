@@ -67,7 +67,7 @@ public class Varasto {
     public void metodinPituusEiSaaOllaNainPitka234223425253662362(){
         //täällä ei tapahdu mitään
     }
-    /*
+    
     public void liikaaIfRakenteita(){
         boolean arvo = true;
         if (arvo) {
@@ -78,6 +78,7 @@ public class Varasto {
             }
         }
     }
+    /*
     public void liikaaForRakenteita(){
         for (int i = 0; i<2; i++) {
             for (int i2 = 0; i2 < 2; i2++) {

@@ -19,6 +19,7 @@ public class VarastoTest {
 
     public void setUp() {
         varasto = new Varasto(10);
+        //testi lisätään jotain, jotta nähdään toimiiko checkstyle
     }
     /*
     @Test
