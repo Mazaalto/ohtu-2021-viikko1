@@ -64,6 +64,7 @@ public class Varasto {
     public String toString() {
         return ("saldo = " + saldo + ", vielä tilaa " + paljonkoMahtuu());
     }
+    /*
     public void metodinPituusEiSaaOllaNainPitka234223425253662362(){
         //täällä ei tapahdu mitään
     }
@@ -78,7 +79,7 @@ public class Varasto {
             }
         }
     }
-    /*
+    
     public void liikaaForRakenteita(){
         for (int i = 0; i<2; i++) {
             for (int i2 = 0; i2 < 2; i2++) {
