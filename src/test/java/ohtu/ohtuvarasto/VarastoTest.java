@@ -16,11 +16,11 @@ public class VarastoTest {
     double vertailuTarkkuus = 0.0001;
 
     @Before
-    
+
     public void setUp() {
         varasto = new Varasto(10);
     }
-
+    /*
     @Test
     public void konstruktoriLuoTyhjanVaraston() {
         assertEquals(0, varasto.getSaldo(), vertailuTarkkuus);
@@ -154,5 +154,5 @@ public class VarastoTest {
 
         assertEquals(oikea, varasto.toString());
     }
-
+     */
 }
